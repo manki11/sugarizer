@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28cb5005-542a-4ee9-bb14-7305179396c6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="activities.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activities.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/activities/ActivityTemplate/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>express</find>
+      <find>selectbox-text</find>
+      <find>journalToolbar_typeselect_text</find>
+      <find>home-activity-popup</find>
+      <find>popup-items</find>
+      <find>stop-button</find>
+      <find>score</find>
+      <find>localized</find>
+      <find>p21</find>
+      <find>insertimage-button</find>
+      <find>correct</find>
+      <find>start</find>
+      <find>gameOver</find>
+      <find>speaklang</find>
+      <find>lang</find>
+      <find>filter</find>
+      <find>game</find>
+      <find>generatexo</find>
+      <find>getgra</find>
+      <find>log</find>
+      <find>human</find>
+      <find>webL10n</find>
+      <find>service</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/js/selectbox.js" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/activity/activity.info" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/js/loader.js" />
+        <option value="$PROJECT_DIR$/activities/Paint.activity/index.html" />
+        <option value="$PROJECT_DIR$/activities/Paint.activity/lib/sugar-web/graphics/journalchooser.js" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/icons/Pawn.svg" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/activity/activity.info" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/icons/pawn-icon.svg" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/activity/activity-icon.svg" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/locale.ini" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/js/tinycolor.js" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/icons/restart.svg" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/activity/vectorpaint.svg" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/activity/vectorpaint(1).svg" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/activity/activity-icon.svg" />
+        <option value="$PROJECT_DIR$/activities/ActivityTemplate/lib/sugar-web/graphics/presencepalette.js" />
+        <option value="$PROJECT_DIR$/activities/Speak.activity/lib/speechpalette.js" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/lib/levelpalettetemplate.html" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/lib/levelpalettetemplate.js" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/icons/level.svg" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/lib/levelpalette.js" />
+        <option value="$PROJECT_DIR$/activities/Speak.activity/lib/languagepalette.js" />
+        <option value="$PROJECT_DIR$/activities/VideoViewer.activity/lib/filterpalette.js" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/lib/levelpalette.html" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/lib/newlevelpalette.js" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/css/activity.css" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/lib/humane.js" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/index.html" />
+        <option value="$PROJECT_DIR$/activities/SharedNotes.activity/js/activity.js" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/locale.ini" />
+        <option value="$PROJECT_DIR$/activities/SprintMath.activity/js/activity.js" />
+        <option value="$PROJECT_DIR$/activities/ActivityTemplate/index.html" />
+        <option value="$PROJECT_DIR$/activities/ActivityTemplate/js/activity.js" />
+        <option value="$PROJECT_DIR$/activities/Demo.activity/static/css/main.7ac3edc8.css" />
+        <option value="$PROJECT_DIR$/activities/Demo.activity/activity/activity.info" />
+        <option value="$PROJECT_DIR$/activities/Demo.activity/lib/sugar-web/presence.js" />
+        <option value="$PROJECT_DIR$/activities/Demo.activity/static/css/main.5d29b71c.css" />
+        <option value="$PROJECT_DIR$/activities/Demo.activity/static/js/main.17011432.js" />
+        <option value="$PROJECT_DIR$/activities/Demo.activity/index.html" />
+        <option value="$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.d7bc6f45.css" />
+        <option value="$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.7146619b.css" />
+        <option value="$PROJECT_DIR$/activities/Exerciser.activity/index.html" />
+        <option value="$PROJECT_DIR$/activities.json" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/icons/insert-picture.svg" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/css/activity.css" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/index.html" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/js/activity.js" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/graphics/journalchooser.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.js" />
+  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/server/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/activities/Abacus.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Abacus.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Abecedarium.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/ActivityTemplate/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/ActivityTemplate/package.json" />
+      <path value="$PROJECT_DIR$/activities/Blockrain.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Blockrain.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Calculate.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Calculate.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/ChatPrototype.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/ChatPrototype.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Clock.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Clock.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/ColorMyWorld.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/ColorMyWorld.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Cordova.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Cordova.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/FoodChain.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/FoodChain.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Gears.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Gears.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/GetThingsDone.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/GetThingsDone.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Gridpaint.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Gridpaint.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Jappy.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/LabyrinthJS.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/LabyrinthJS.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/LastOneLoses.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/LastOneLoses.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Markdown.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Markdown.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/MazeWeb.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/MazeWeb.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/MediaViewer.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/MediaViewer.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Memorize.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Memorize.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Moon.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Moon.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Paint.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Paint.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/PhysicsJS.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/PhysicsJS.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/QRCode.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/QRCode.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Record.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Record.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Reflection.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Reflection.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/SharedNotes.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/SharedNotes.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Speak.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Speak.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/Stopwatch.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/Stopwatch.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/TamTamMicro.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/TamTamMicro.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/TankOp.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/TankOp.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/TurtleBlocksJS.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/TurtleBlocksJS.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/VideoViewer.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/VideoViewer.activity/package.json" />
+      <path value="$PROJECT_DIR$/activities/WelcomeWeb.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/XOEditor.activity/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/activities/XOEditor.activity/package.json" />
+      <path value="$PROJECT_DIR$/lib/sugar-web/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/base64-url/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/basic-auth-connect/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/connect-timeout/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/crc/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/csrf/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/csurf/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/errorhandler/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/errorhandler/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/errorhandler/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/errorhandler/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/errorhandler/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/errorhandler/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/express-session/node_modules/uid-safe/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/express-session/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/http/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/kerberos/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/method-override/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/method-override/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/method-override/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/method-override/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mongodb/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mongodb/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mongodb/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/multiparty/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/pause/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/random-bytes/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/response-time/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/response-time/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/rndm/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-favicon/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-favicon/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-index/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-static/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-static/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-static/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/stream-counter/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/tsscmp/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/typedarray-to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/uid-safe/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/vhost/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/websocket/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/websocket/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/websocket/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/yaeti/package.json" />
+      <path value="$PROJECT_DIR$/server/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sugarizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sugarizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sugarizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sugarizer" type="462c0819:PsiDirectoryNode" />
+              <item name="activities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="presencepa&#9;FILE&#9;file:///Users/mankiratsingh/WebDevelopment/Open-Source/sugarizer/activities/ActivityTemplate/lib/sugar-web/graphics/presencepalette.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="/usr/local/lib/node_modules/jscs" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/activities" />
+      <recent name="$PROJECT_DIR$/activities/SprintMath.activity/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/activities/Exerciser.activity" />
+      <recent name="$PROJECT_DIR$/activities/Exerciser.activity/static" />
+      <recent name="$PROJECT_DIR$/activities/Demo.activity/static" />
+      <recent name="$PROJECT_DIR$/activities/Demo.activity" />
+      <recent name="$PROJECT_DIR$/activities/SprintMath.activity/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="activity.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="activity.js" working-dir="$PROJECT_DIR$/activities/SprintMath.activity/js" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.activity.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28cb5005-542a-4ee9-bb14-7305179396c6" name="Default" comment="" />
+      <created>1517152898607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517152898607</updated>
+      <workItem from="1517152901316" duration="2362000" />
+      <workItem from="1517158793942" duration="2053000" />
+      <workItem from="1518286295166" duration="4455000" />
+      <workItem from="1519992820024" duration="5517000" />
+      <workItem from="1520419108982" duration="9277000" />
+      <workItem from="1520447439383" duration="12982000" />
+      <workItem from="1520673707468" duration="404000" />
+      <workItem from="1520690557545" duration="1244000" />
+      <workItem from="1520704170814" duration="370000" />
+      <workItem from="1520704668920" duration="935000" />
+      <workItem from="1520764043124" duration="1269000" />
+      <workItem from="1521462043618" duration="3143000" />
+      <workItem from="1521555902555" duration="5678000" />
+      <workItem from="1524933465623" duration="1887000" />
+      <workItem from="1524993392699" duration="2983000" />
+      <workItem from="1525028506654" duration="1608000" />
+      <workItem from="1525104076623" duration="4665000" />
+      <workItem from="1525542963502" duration="17791000" />
+      <workItem from="1526115532544" duration="16917000" />
+      <workItem from="1526233308542" duration="6905000" />
+      <workItem from="1526290415342" duration="614000" />
+      <workItem from="1526326946471" duration="4599000" />
+      <workItem from="1526387690446" duration="1405000" />
+      <workItem from="1526394023367" duration="1373000" />
+      <workItem from="1526397570531" duration="8000" />
+      <workItem from="1526399945757" duration="9231000" />
+      <workItem from="1526459034769" duration="1185000" />
+      <workItem from="1527871850242" duration="169000" />
+      <workItem from="1528456360583" duration="3150000" />
+      <workItem from="1532697073827" duration="412000" />
+      <workItem from="1532725646684" duration="1711000" />
+      <workItem from="1553699841969" duration="2990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134497000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16842847" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="Grunt " order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33992583" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24290998" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.36744758" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.2e2617cd.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.7c0b32d5.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/activity/activity.info" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.3fcdd666.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/lib/sugar-web/presence.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.38652ff2.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/css/main.33c0ce72.css" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.69a300f5.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.90145b95.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.77f0a182.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.aad32510.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.3ca647f5.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/service-worker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/css/main.5d29b71c.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="641" selection-start-column="641" selection-end-column="641" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.17011432.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.b1c5eef6.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.fea6af67.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.427deacc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/asset-manifest.json" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/lib/text.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/js/main.fa5e34b1.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.4543c514.css" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.d7bc6f45.css" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/js/main.30073b73.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/js/main.5a5ff641.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.7146619b.css" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/activity/activity.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/activity/activity-icon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/js/loader.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/text.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/bus/sugaros.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/bus/sugarizer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/busSpec.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/envSpec.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/datastoreSpec.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/dictstoreSpec.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/activity/activity.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/insert-picture.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/add.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/pawn-icon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/css/activity.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/js/activity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret column="274" selection-start-column="274" selection-end-column="274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/graphics/journalchooser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/ActivityTemplate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
