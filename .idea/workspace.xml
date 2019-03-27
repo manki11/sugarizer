@@ -20,22 +20,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="activities.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/activities.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="locale.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locale.ini">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/activities/ActivityTemplate/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
+      <file leaf-file-name="sugarizer-compose.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sugarizer-compose.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.webapp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest.webapp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="icon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icon.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -81,8 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package-lock.json" />
-        <option value="$PROJECT_DIR$/js/selectbox.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/activities/SprintMath.activity/activity/activity.info" />
         <option value="$PROJECT_DIR$/activities/SprintMath.activity/js/loader.js" />
@@ -93,7 +130,6 @@
         <option value="$PROJECT_DIR$/activities/Pawn.activity/icons/pawn-icon.svg" />
         <option value="$PROJECT_DIR$/activities/Pawn.activity/activity/activity-icon.svg" />
         <option value="$PROJECT_DIR$/activities/Pawn.activity/locale.ini" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/activities/SprintMath.activity/js/tinycolor.js" />
         <option value="$PROJECT_DIR$/activities/SprintMath.activity/icons/restart.svg" />
         <option value="$PROJECT_DIR$/activities/SprintMath.activity/activity/vectorpaint.svg" />
@@ -130,8 +166,11 @@
         <option value="$PROJECT_DIR$/activities/Pawn.activity/icons/insert-picture.svg" />
         <option value="$PROJECT_DIR$/activities/Pawn.activity/css/activity.css" />
         <option value="$PROJECT_DIR$/activities/Pawn.activity/index.html" />
-        <option value="$PROJECT_DIR$/activities/Pawn.activity/js/activity.js" />
         <option value="$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/graphics/journalchooser.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/lib/picoModal.js" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/lib/mustache.js" />
+        <option value="$PROJECT_DIR$/activities/Pawn.activity/js/activity.js" />
       </list>
     </option>
   </component>
@@ -344,7 +383,7 @@
       <path value="$PROJECT_DIR$/server/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -361,11 +400,6 @@
             <path>
               <item name="sugarizer" type="b2602c69:ProjectViewProjectNode" />
               <item name="sugarizer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sugarizer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sugarizer" type="462c0819:PsiDirectoryNode" />
-              <item name="activities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -461,15 +495,17 @@
       <workItem from="1528456360583" duration="3150000" />
       <workItem from="1532697073827" duration="412000" />
       <workItem from="1532725646684" duration="1711000" />
-      <workItem from="1553699841969" duration="2990000" />
+      <workItem from="1553699841969" duration="2503000" />
+      <workItem from="1553703793138" duration="705000" />
+      <workItem from="1553704532271" duration="203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134497000" />
+    <option name="totallyTimeSpent" value="135052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16842847" />
@@ -477,12 +513,12 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Grunt " order="2" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33992583" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20942408" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24290998" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -491,6 +527,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.36744758" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16842847" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24290998" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.20942408" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.36744758" />
+      <window_info id="Grunt " order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -504,157 +560,115 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.2e2617cd.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.7c0b32d5.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/activity/activity.info" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.3fcdd666.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/lib/sugar-web/presence.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.38652ff2.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/css/main.33c0ce72.css" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.69a300f5.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.90145b95.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.77f0a182.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.aad32510.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.3ca647f5.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/service-worker.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/css/main.5d29b71c.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="641" selection-start-column="641" selection-end-column="641" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.17011432.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.b1c5eef6.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.fea6af67.js" />
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/static/js/main.427deacc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/activities/Demo.activity/favicon.ico" />
     <entry file="file://$PROJECT_DIR$/activities/Demo.activity/asset-manifest.json" />
-    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/lib/text.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/lib/text.js" />
     <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/js/main.fa5e34b1.js" />
     <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.4543c514.css" />
     <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.d7bc6f45.css" />
     <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/js/main.30073b73.js" />
     <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/js/main.5a5ff641.js" />
     <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/static/css/main.7146619b.css" />
-    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/activity/activity.info">
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/activity/activity.info" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/activity/activity-icon.svg" />
+    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/index.html" />
+    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/index.html" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/js/loader.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/text.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/bus/sugaros.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/bus/sugarizer.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/busSpec.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/envSpec.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/datastoreSpec.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/dictstoreSpec.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/activity/activity.info" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/insert-picture.svg" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/add.svg" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/pawn-icon.svg" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/css/activity.css" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/graphics/journalchooser.js" />
+    <entry file="file://$PROJECT_DIR$/activities/ActivityTemplate/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="288">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/activity/activity-icon.svg">
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/picoModal.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/mustache.js" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/index.html" />
+    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/js/activity.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cordova.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate-docker-compose.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Exerciser.activity/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.webapp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="162">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Demo.activity/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/js/loader.js">
+    <entry file="file://$PROJECT_DIR$/sugarizer-compose.yml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/text.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/bus/sugaros.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/bus/sugarizer.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/busSpec.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/envSpec.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/datastoreSpec.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/test/unit/dictstoreSpec.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/activity/activity.info">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/insert-picture.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/add.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/icons/pawn-icon.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/css/activity.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/js/activity.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret column="274" selection-start-column="274" selection-end-column="274" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/Pawn.activity/lib/sugar-web/graphics/journalchooser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities/ActivityTemplate/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
